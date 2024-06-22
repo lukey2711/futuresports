@@ -1,15 +1,13 @@
 {
   "files": {
-    "main.css": "/futuresports/static/css/main.14433d25.css",
-    "main.js": "/futuresports/static/js/main.f76665e9.js",
-    "static/js/488.709bb4fc.chunk.js": "/futuresports/static/js/488.709bb4fc.chunk.js",
+    "main.css": "/futuresports/static/css/main.42346280.css",
+    "main.js": "/futuresports/static/js/main.ecd3a3a7.js",
     "index.html": "/futuresports/index.html",
-    "main.14433d25.css.map": "/futuresports/static/css/main.14433d25.css.map",
-    "main.f76665e9.js.map": "/futuresports/static/js/main.f76665e9.js.map",
-    "488.709bb4fc.chunk.js.map": "/futuresports/static/js/488.709bb4fc.chunk.js.map"
+    "main.42346280.css.map": "/futuresports/static/css/main.42346280.css.map",
+    "main.ecd3a3a7.js.map": "/futuresports/static/js/main.ecd3a3a7.js.map"
   },
   "entrypoints": [
-    "static/css/main.14433d25.css",
-    "static/js/main.f76665e9.js"
+    "static/css/main.42346280.css",
+    "static/js/main.ecd3a3a7.js"
   ]
 }
