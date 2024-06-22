@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/futuresports/static/css/main.42346280.css",
-    "main.js": "/futuresports/static/js/main.ecd3a3a7.js",
+    "main.js": "/futuresports/static/js/main.b58cbda7.js",
     "index.html": "/futuresports/index.html",
     "main.42346280.css.map": "/futuresports/static/css/main.42346280.css.map",
-    "main.ecd3a3a7.js.map": "/futuresports/static/js/main.ecd3a3a7.js.map"
+    "main.b58cbda7.js.map": "/futuresports/static/js/main.b58cbda7.js.map"
   },
   "entrypoints": [
     "static/css/main.42346280.css",
-    "static/js/main.ecd3a3a7.js"
+    "static/js/main.b58cbda7.js"
   ]
 }
